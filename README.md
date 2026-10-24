@@ -32,4 +32,5 @@ A simple URL shortener built with the MERN stack. Paste a long link, get a short
 - GET /:code : redirect and count the click
 
 ## Live Demo
-Coming soon
+- Frontend: https://link-vault-three-iota.vercel.app/
+- Backend API: https://link-vault-api-51c2.onrender.com
