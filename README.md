@@ -1,7 +1,5 @@
 # Link-Vault
 A MERN Stack based project
-# LinkVault
-
 A simple URL shortener built with the MERN stack. Paste a long link, get a short one, and track how many times it has been clicked.
 
 ## Features
